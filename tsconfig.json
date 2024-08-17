@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "outDir": "./out",
+    "lib": ["es2016", "dom"],
+    "sourceMap": true
+  },
+  "exclude": ["node_modules"]
+}
